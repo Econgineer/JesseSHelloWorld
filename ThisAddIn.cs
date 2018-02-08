@@ -18,7 +18,10 @@ namespace JesseSHelloWorld
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
         {
         }
-
+        private void ThisAddIn_JesseSub()
+        {
+            //do some stuff
+        }
         #region VSTO generated code
 
         /// <summary>
